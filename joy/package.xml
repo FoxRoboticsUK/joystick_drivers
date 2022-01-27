@@ -28,6 +28,7 @@
   <depend>joystick</depend>
   <depend>roscpp</depend>
   <depend>sensor_msgs</depend>
+  <depend>bondcpp</depend>
 
   <test_depend>rosbag</test_depend>
 
